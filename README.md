@@ -1,2 +1,3 @@
-mkvirtualenv test
-pip install -r requirements.txt
+# mkvirtualenv test
+
+# pip install -r requirements.txt
