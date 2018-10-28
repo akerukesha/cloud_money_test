@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+BAD_REQUEST = u'Bad request'
+MISSING_REQUIRED_PARAMS = u'Отсутсвуют обязательные поля: {0}'
+BAD_EMAIL = u'Неправильный формат email адреса, email: {0}'
+PASSWORD_LENGTH_ERROR = u'Длина пароля должна быть не меньше 6, найдено: {0}'
+USERNAME_USED = u'Пользователь с таким email-ом уже существует'
+USER_NOT_FOUND_EMAIL = u'Пользователь с таким email отсутсвует'
+INCORRECT_USERNAME_OR_PASSWORD = u'Имя или пароль неверные'
+TOKEN_INVALID = u'Неправильный токен'
+TOKEN_NOT_FOUND = u'Отсутсвует токен'
+USER_NOT_FOUND = u'Пользователь с таким email отсутсвует'
+INVALID_USERNAME = u'Неправильное имя пользователя'
