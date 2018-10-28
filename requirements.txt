@@ -13,11 +13,9 @@ gunicorn==19.6.0
 idna==2.2
 ipaddress==1.0.18
 kombu==3.0.35
-paramiko==2.1.1
 psycopg2==2.7.1
 pyasn1==0.1.9
 pycparser==2.17
-pycrypto==2.6.1
 PyJWT==1.4.2
 pyrebase==3.0.27
 redis==2.10.5
